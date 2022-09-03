@@ -23,3 +23,5 @@ Will update the readme file at the end of the month informing how it went
 - Try SCSS 
 - Finish with learning  React ⚛
 - Make projects with TypeScript
+- Revise some concepts
+- 
