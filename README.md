@@ -1,5 +1,5 @@
-# Full-month-streak-
-Will maintain this repo for a month 
+# Full-month-streak-  🚀
+Will maintain this repo for a month by contributing to it.
 
 
 ## Objective of this repo?
@@ -11,7 +11,7 @@ Will maintain this repo for a month
 Will update the readme file at the end of the month informing how it went
 
 
-### Progress 
+### Progress ⚡🔥
 
 - Right now on DAY 03, getting started with JavaScript. Will be making some awesome projects with it soon.
 - Thinking to watch a video on JS
