@@ -14,4 +14,12 @@ Will update the readme file at the end of the month informing how it went
 ### Progress 
 
 - Right now on DAY 03, getting started with JavaScript. Will be making some awesome projects with it soon.
-- Thinking watch a video on JS
+- Thinking to watch a video on JS
+
+## AIM 🎯
+
+- Make projects with JS
+- Make a lot of CSS ART
+- Try SCSS 
+- Finish with learning  React ⚛
+- Make projects with TypeScript
